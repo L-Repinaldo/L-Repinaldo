@@ -30,4 +30,12 @@ I like building clean, efficient, and sustainable code, using ML/AI techniques t
   
 # 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=L-Repinaldo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=L-Repinaldo&show_icons=true&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=L-Repinaldo&show_icons=true&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L-Repinaldo&show_icons=true&hide_border=true" />
+</picture>
