@@ -30,9 +30,8 @@ I like building clean, efficient, and sustainable code, using ML/AI techniques t
   
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=L-Repinaldo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=L-Repinaldo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Repinaldo)](https://github.com/anuraghazra/github-readme-stats)
 
 # ☎️ Contact:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  (https://www.linkedin.com/in/lucas-repinaldo-044a98314/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-repinaldo-044a98314/)
