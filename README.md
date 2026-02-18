@@ -30,7 +30,8 @@ I like building clean, efficient, and sustainable code, using ML/AI techniques t
   
 # 📊 GitHub Stats
 
-[![L-Repinaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Repinaldo)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=L-Repinaldo)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-trophy.vercel.app/?username=L-Repinaldo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # ☎️ Contact:
 
