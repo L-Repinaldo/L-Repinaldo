@@ -28,10 +28,3 @@ I like building clean, efficient, and sustainable code, using ML/AI techniques t
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
-# 📊 GitHub Stats
-
-# 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=L-Repinaldo&show_icons=true&theme=radical&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Repinaldo&layout=compact&theme=radical&hide_border=true" />
-
