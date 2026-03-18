@@ -1,6 +1,7 @@
 # 👋 Hi!
-I'm Lucas, a Data Science & Machine Learning/AI enthusiast <br/>
-I like building clean, efficient, and sustainable code, using ML/AI techniques to solve real-world problems.<br/>
+I'm Lucas, a data-focused developer working with Data Science and Machine Learning. </br> 
+I focus on understanding systems, data flow, and problem context before designing solutions. </br>
+My work involves data analysis, experimentation, and applying ML/AI to real-world problems, with an emphasis on clarity, efficiency, and building reliable solutions. </br>
 
 # 💻 Tech Stack
 
