@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="430"
+     viewBox="0 0 900 430">
+
+  <rect width="900" height="430" fill="#0d1117"/>
+
+  <text x="40" y="50"
+        fill="#8b949e"
+        font-family="monospace"
+        font-size="18">
+    l-repinaldo@github
+  </text>
+
+  <text x="40" y="75"
+        fill="#30363d"
+        font-family="monospace"
+        font-size="16">
+    ─────────────────────────────────────────
+  </text>
+
+  <text x="40" y="120"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="16">
+    Languages
+  </text>
+
+  <text x="220" y="120"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="16">
+    Python · Java · TypeScript
+  </text>
+
+
+  <text x="40" y="155"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="16">
+    ML / AI
+  </text>
+
+  <text x="220" y="155"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="16">
+    Scikit-learn · TensorFlow · PyTorch
+  </text>
+
+
+  <text x="40" y="190"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="16">
+    Data
+  </text>
+
+  <text x="220" y="190"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="16">
+    Pandas · NumPy · Jupyter
+  </text>
+
+
+  <text x="40" y="225"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="16">
+    Visualization
+  </text>
+
+  <text x="220" y="225"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="16">
+    Matplotlib · Plotly · Seaborn · Power BI · Excel
+  </text>
+
+
+  <text x="40" y="260"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="16">
+    Databases
+  </text>
+
+  <text x="220" y="260"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="16">
+    PostgreSQL · MySQL
+  </text>
+
+
+  <text x="40" y="295"
+        fill="#7ee787"
+        font-family="monospace"
+        font-size="16">
+    OS
+  </text>
+
+  <text x="220" y="295"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="16">
+    Arch Linux · Windows 11
+  </text>
+
+</svg>

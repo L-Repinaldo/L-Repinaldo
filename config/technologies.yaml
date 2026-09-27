@@ -1,0 +1,146 @@
+Python:
+  extensions:
+    - ".py"
+  files: []
+  dependencies:
+    - "python"
+  imports:
+    - "python"
+
+Java:
+  extensions:
+    - ".java"
+  files: []
+  dependencies: []
+  imports: []
+
+TypeScript:
+  extensions:
+    - ".ts"
+    - ".tsx"
+  files: []
+  dependencies:
+    - "typescript"
+  imports: []
+
+JavaScript:
+  extensions:
+    - ".js"
+    - ".jsx"
+  files: []
+  dependencies:
+    - "javascript"
+  imports: []
+
+Jupyter:
+  extensions:
+    - ".ipynb"
+  files: []
+  dependencies:
+    - "jupyter"
+    - "jupyterlab"
+    - "notebook"
+  imports: []
+
+Scikit-learn:
+  extensions: []
+  files: []
+  dependencies:
+    - "scikit-learn"
+  imports:
+    - "sklearn"
+
+TensorFlow:
+  extensions: []
+  files: []
+  dependencies:
+    - "tensorflow"
+  imports:
+    - "tensorflow"
+
+PyTorch:
+  extensions: []
+  files: []
+  dependencies:
+    - "torch"
+  imports:
+    - "torch"
+
+Pandas:
+  extensions: []
+  files: []
+  dependencies:
+    - "pandas"
+  imports:
+    - "pandas"
+
+NumPy:
+  extensions: []
+  files: []
+  dependencies:
+    - "numpy"
+  imports:
+    - "numpy"
+
+Matplotlib:
+  extensions: []
+  files: []
+  dependencies:
+    - "matplotlib"
+  imports:
+    - "matplotlib"
+
+Plotly:
+  extensions: []
+  files: []
+  dependencies:
+    - "plotly"
+  imports:
+    - "plotly"
+
+Seaborn:
+  extensions: []
+  files: []
+  dependencies:
+    - "seaborn"
+  imports:
+    - "seaborn"
+
+Streamlit:
+  extensions: []
+  files: []
+  dependencies:
+    - "streamlit"
+  imports:
+    - "streamlit"
+
+FastAPI:
+  extensions: []
+  files: []
+  dependencies:
+    - "fastapi"
+  imports:
+    - "fastapi"
+
+PostgreSQL:
+  extensions: []
+  files: []
+  dependencies:
+    - "psycopg"
+    - "psycopg2"
+    - "asyncpg"
+  imports:
+    - "psycopg"
+    - "psycopg2"
+    - "asyncpg"
+
+MySQL:
+  extensions: []
+  files: []
+  dependencies:
+    - "mysqlclient"
+    - "mysql-connector-python"
+    - "pymysql"
+  imports:
+    - "mysql"
+    - "pymysql"

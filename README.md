@@ -1,31 +1,47 @@
-# 👋 Hi!
-I'm Lucas, a data-focused developer working with Data Science and Machine Learning. </br> 
-I focus on understanding systems, data flow, and problem context before designing solutions. </br>
-My work involves data analysis, experimentation, and applying ML/AI to real-world problems, with an emphasis on clarity, efficiency, and building reliable solutions. </br>
+    #!/usr/bin/python
+    # -*- coding: utf-8 -*-
 
-# 💻 Tech Stack
 
-  ## Languages: 
-  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  
-  ## Machine Learning/AI: 
-  
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  
-  ## Data & Visualization:
-  
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  
-  ## Database Management/Storage:
+    class L-Repinaldo:
 
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  
+        def __init__(self):
+            self.name = "Lucas Repinaldo"
+            self.role = "Data Science & Machine Learning"
+            self.language_spoken = ["pt_BR", "en_US"]
+
+        def say_hi(self):
+            print("Hello")
+
+
+    me = SoftwareEngineer()
+    me.say_hi()  
+
+## About
+I like to solve puzzles, understand how the things works and build solutions while taking these aspects into account . </br>
+My work involves data analysis, data cleaning, experimentation, and applying ML/AI to real-world problems. </br>
+
+## 💻 Tech Stack
+
+<table>
+<tr>
+<td width="30%">
+
+<img src="./assets/imgs/Rebel Jedi Sticker by Star Wars.gif" width="220">
+
+</td>
+
+<td width="70%">
+
+<p align="center">
+  <img src="./assets/tech_stack.svg" alt="Tech Stack">
+</p>
+
+
+</td>
+</tr>
+</table>
+
+### Top stack
+<p align="center">
+  <img src="./assets/tech-ranking.svg" alt="Most used technologies">
+</p>

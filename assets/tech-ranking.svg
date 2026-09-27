@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="280"
+     viewBox="0 0 900 280">
+
+  <rect width="900" height="280" fill="#0d1117"/>
+
+  <text x="40" y="45"
+        fill="#8b949e"
+        font-family="monospace"
+        font-size="16">
+    Most used technologies
+  </text>
+
+  <circle cx="180" cy="155" r="58"
+          fill="#161b22"
+          stroke="#7ee787"
+          stroke-width="2"/>
+
+  <text x="180" y="150"
+        text-anchor="middle"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold">
+    Python
+  </text>
+
+  <text x="180" y="173"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="monospace"
+        font-size="12">
+    217.0 pts
+  </text>
+
+  <circle cx="450" cy="95" r="58"
+          fill="#161b22"
+          stroke="#7ee787"
+          stroke-width="2"/>
+
+  <text x="450" y="90"
+        text-anchor="middle"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold">
+    Jupyter
+  </text>
+
+  <text x="450" y="113"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="monospace"
+        font-size="12">
+    29.0 pts
+  </text>
+
+  <circle cx="720" cy="155" r="58"
+          fill="#161b22"
+          stroke="#7ee787"
+          stroke-width="2"/>
+
+  <text x="720" y="150"
+        text-anchor="middle"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold">
+    NumPy
+  </text>
+
+  <text x="720" y="173"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="monospace"
+        font-size="12">
+    27.0 pts
+  </text>
+
+</svg>
