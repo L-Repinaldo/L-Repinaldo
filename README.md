@@ -1,18 +1,18 @@
     #!/usr/bin/python
     # -*- coding: utf-8 -*-
-
-
-    class L-Repinaldo:
-
+    
+    
+    class LRepinaldo:
+    
         def __init__(self):
             self.name = "Lucas Repinaldo"
             self.role = "Data Science & Machine Learning"
             self.language_spoken = ["pt_BR", "en_US"]
-
+    
         def say_hi(self):
             print("Hello")
-
-
+    
+    
     me = SoftwareEngineer()
     me.say_hi()  
 
