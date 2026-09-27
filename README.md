@@ -1,6 +1,5 @@
+```python
     #!/usr/bin/python
-    # -*- coding: utf-8 -*-
-    
     
     class LRepinaldo:
     
@@ -13,8 +12,9 @@
             print("Hello")
     
     
-    me = SoftwareEngineer()
-    me.say_hi()  
+    me = LRepinaldo()
+    me.say_hi()
+```
 
 ## About
 I like to solve puzzles, understand how the things works and build solutions while taking these aspects into account . </br>
