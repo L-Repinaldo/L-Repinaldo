@@ -1,3 +1,8 @@
+
+## About
+I like to solve puzzles, understand how the things works and build solutions while taking these aspects into account . </br>
+My work involves data analysis, data cleaning, experimentation, and applying ML/AI to real-world problems. </br>
+
 ```python
     #!/usr/bin/python
     
@@ -16,11 +21,7 @@
     me.say_hi()
 ```
 
-## About
-I like to solve puzzles, understand how the things works and build solutions while taking these aspects into account . </br>
-My work involves data analysis, data cleaning, experimentation, and applying ML/AI to real-world problems. </br>
-
-## 💻 Tech Stack
+## Tech Stack
 
 <table>
 <tr>
