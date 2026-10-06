@@ -10,7 +10,7 @@ from pathlib import Path
 import requests
 import yaml
 
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 
 #load_dotenv()
