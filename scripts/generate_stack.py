@@ -13,7 +13,7 @@ import yaml
 from dotenv import load_dotenv
 
 
-load_dotenv()
+#load_dotenv()
 
 
 GITHUB_API = "https://api.github.com"
