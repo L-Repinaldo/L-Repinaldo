@@ -38,15 +38,28 @@ My work involves data analysis, data cleaning, experimentation, and applying ML/
 <p align="center">
   <img src="./assets/tech_stack.svg" alt="Tech Stack">
 </p>
-
-
 </td>
 </tr>
 </table>
 
 ### Top stack
+
+<table>
+<tr>
+<td width="70%">
+
 <p align="center">
   <img src="./assets/tech-ranking.svg" alt="Most used technologies">
 </p>
+
+</td>
+
+<td width="30%">
+
+<img src="./assets/imgs/robot-guitar-transparent.png" width="300">
+
+</td>
+</tr>
+</table>
 
 ---
