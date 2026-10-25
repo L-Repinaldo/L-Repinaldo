@@ -31,7 +31,7 @@
         fill="#8b949e"
         font-family="monospace"
         font-size="12">
-    224.0 pts
+    174.0 pts
   </text>
 
   <circle cx="450" cy="95" r="58"
@@ -67,7 +67,7 @@
         font-family="monospace"
         font-size="15"
         font-weight="bold">
-    NumPy
+    Java
   </text>
 
   <text x="720" y="173"
@@ -75,7 +75,7 @@
         fill="#8b949e"
         font-family="monospace"
         font-size="12">
-    27.0 pts
+    25.0 pts
   </text>
 
 </svg>
