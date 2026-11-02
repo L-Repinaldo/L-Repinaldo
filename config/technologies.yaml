@@ -7,7 +7,7 @@ Python:
   imports:
     - "python"
 
-JJava:
+Java:
   extensions:
     - ".java"
   files: []
