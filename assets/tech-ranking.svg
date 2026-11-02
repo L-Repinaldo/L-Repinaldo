@@ -16,7 +16,7 @@
         rx="5" fill="#7ee787"/>
   <text x="455" y="110" fill="#8b949e"
         font-family="monospace" font-size="13">
-    174 pts
+    206 pts
   </text>
   <text x="32" y="156" fill="#c9d1d9"
         font-family="monospace" font-size="15">
@@ -24,22 +24,22 @@
   </text>
   <rect x="32" y="165" width="400" height="10"
         rx="5" fill="#21262d"/>
-  <rect x="32" y="165" width="66" height="10"
+  <rect x="32" y="165" width="69" height="10"
         rx="5" fill="#7ee787"/>
   <text x="455" y="174" fill="#8b949e"
         font-family="monospace" font-size="13">
-    29 pts
+    36 pts
   </text>
   <text x="32" y="220" fill="#c9d1d9"
         font-family="monospace" font-size="15">
-    JJava
+    TypeScript
   </text>
   <rect x="32" y="229" width="400" height="10"
         rx="5" fill="#21262d"/>
-  <rect x="32" y="229" width="57" height="10"
+  <rect x="32" y="229" width="54" height="10"
         rx="5" fill="#7ee787"/>
   <text x="455" y="238" fill="#8b949e"
         font-family="monospace" font-size="13">
-    25 pts
+    28 pts
   </text>
 </svg>
