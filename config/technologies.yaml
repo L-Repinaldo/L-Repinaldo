@@ -7,9 +7,19 @@ Python:
   imports:
     - "python"
 
-Java:
+JJava:
   extensions:
     - ".java"
+  files: []
+  dependencies: []
+  imports: []
+
+JavaScript:
+  extensions:
+    - ".js"
+    - ".jsx"
+    - ".mjs"
+    - ".cjs"
   files: []
   dependencies: []
   imports: []
@@ -18,18 +28,11 @@ TypeScript:
   extensions:
     - ".ts"
     - ".tsx"
+    - ".mts"
+    - ".cts"
   files: []
   dependencies:
     - "typescript"
-  imports: []
-
-JavaScript:
-  extensions:
-    - ".js"
-    - ".jsx"
-  files: []
-  dependencies:
-    - "javascript"
   imports: []
 
 Jupyter:
