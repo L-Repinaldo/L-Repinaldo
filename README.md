@@ -56,8 +56,6 @@ My work involves data analysis, data cleaning, experimentation, and applying ML/
 
 <td width="30%">
 
-<img src="./assets/imgs/robot-guitar-transparent.png" width="300">
-
 </td>
 </tr>
 </table>
